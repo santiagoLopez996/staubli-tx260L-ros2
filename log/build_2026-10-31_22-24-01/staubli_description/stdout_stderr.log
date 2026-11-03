@@ -1,0 +1,57 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (1.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/santiago-lopez/staubli_ws/build/staubli_description
+-- Install configuration: ""
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/launch
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/launch/display.launch.py
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_3.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_4.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/base_link.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_5.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_6.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_2.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_1.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_3.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_4.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/base_link.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_5.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_6.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_2.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_1.stl
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/staubli_macro.xacro
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/common_materials.xacro
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/staubli.xacro
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/common_colours.xacro
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/ament_index/resource_index/package_run_dependencies/staubli_description
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/ament_index/resource_index/parent_prefix_path/staubli_description
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/ament_prefix_path.sh
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/ament_prefix_path.dsv
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/path.sh
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/path.dsv
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.bash
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.sh
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.zsh
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.dsv
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/package.dsv
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/ament_index/resource_index/packages/staubli_description
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/cmake/staubli_descriptionConfig.cmake
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/cmake/staubli_descriptionConfig-version.cmake
+-- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/package.xml

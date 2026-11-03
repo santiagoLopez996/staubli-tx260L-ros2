@@ -1,0 +1,63 @@
+[0.017s] Invoking command in '/home/santiago-lopez/staubli_ws/build/staubli_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/santiago-lopez/staubli_ws/src/staubli_description -DCMAKE_INSTALL_PREFIX=/home/santiago-lopez/staubli_ws/install/staubli_description
+[0.228s] -- The C compiler identification is GNU 13.3.0
+[0.423s] -- The CXX compiler identification is GNU 13.3.0
+[0.465s] -- Detecting C compiler ABI info
+[0.670s] -- Detecting C compiler ABI info - done
+[0.693s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.700s] -- Detecting C compile features
+[0.702s] -- Detecting C compile features - done
+[0.744s] -- Detecting CXX compiler ABI info
+[1.011s] -- Detecting CXX compiler ABI info - done
+[1.033s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.034s] -- Detecting CXX compile features
+[1.034s] -- Detecting CXX compile features - done
+[1.058s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.356s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.768s] -- Configuring done (1.7s)
+[1.772s] -- Generating done (0.0s)
+[1.777s] -- Build files have been written to: /home/santiago-lopez/staubli_ws/build/staubli_description
+[1.790s] Invoked command in '/home/santiago-lopez/staubli_ws/build/staubli_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/santiago-lopez/staubli_ws/src/staubli_description -DCMAKE_INSTALL_PREFIX=/home/santiago-lopez/staubli_ws/install/staubli_description
+[1.793s] Invoking command in '/home/santiago-lopez/staubli_ws/build/staubli_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/santiago-lopez/staubli_ws/build/staubli_description -- -j12 -l12
+[1.874s] Invoked command in '/home/santiago-lopez/staubli_ws/build/staubli_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/santiago-lopez/staubli_ws/build/staubli_description -- -j12 -l12
+[1.895s] Invoking command in '/home/santiago-lopez/staubli_ws/build/staubli_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/santiago-lopez/staubli_ws/build/staubli_description
+[1.918s] -- Install configuration: ""
+[1.919s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/launch
+[1.919s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/launch/display.launch.py
+[1.919s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes
+[1.919s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual
+[1.919s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_3.stl
+[1.920s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_4.stl
+[1.920s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/base_link.stl
+[1.920s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_5.stl
+[1.921s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_6.stl
+[1.921s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_2.stl
+[1.921s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/visual/link_1.stl
+[1.922s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision
+[1.923s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_3.stl
+[1.923s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_4.stl
+[1.923s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/base_link.stl
+[1.923s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_5.stl
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_6.stl
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_2.stl
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/meshes/collision/link_1.stl
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/staubli_macro.xacro
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/common_materials.xacro
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/staubli.xacro
+[1.924s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/urdf/common_colours.xacro
+[1.925s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/ament_index/resource_index/package_run_dependencies/staubli_description
+[1.925s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/ament_index/resource_index/parent_prefix_path/staubli_description
+[1.925s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/ament_prefix_path.sh
+[1.925s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/ament_prefix_path.dsv
+[1.925s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/path.sh
+[1.925s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/environment/path.dsv
+[1.925s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.bash
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.sh
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.zsh
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/local_setup.dsv
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/package.dsv
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/ament_index/resource_index/packages/staubli_description
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/cmake/staubli_descriptionConfig.cmake
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/cmake/staubli_descriptionConfig-version.cmake
+[1.926s] -- Installing: /home/santiago-lopez/staubli_ws/install/staubli_description/share/staubli_description/package.xml
+[1.929s] Invoked command in '/home/santiago-lopez/staubli_ws/build/staubli_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/santiago-lopez/staubli_ws/build/staubli_description
